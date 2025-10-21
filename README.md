@@ -64,38 +64,10 @@ Contains the main logic and menu-driven program for:
    javac StudentManagementSystem.java
 3. **Run the program:**
    java StudentManagementSystem
-**🧾 Sample Menu Output**
-===== STUDENT MANAGEMENT SYSTEM =====
-1. Add Student
-2. View Students
-3. Update Student
-4. Delete Student
-5. Exit
-Enter your choice: 1
-Enter student id: 101
-Enter student name: Rami Adarsh
-Enter student marks: 85.5
-Student added successfully!
-
-**📋 Sample Output (After Adding Few Students)**
---- Student List ---
-ID         Name                 Marks
--------------------------------------------
-101        Rami Adarsh          85.50
-102        Amit Patel           91.25
-103        Neha Sharma          78.00
-
-**🔁 Update Student Example**
-Enter ID of student to update: 101
-Enter new name: Rami A.  
-Enter new marks: 90.0
-Student updated successfully!
-
-**🗑️ Delete Student Example**
-Enter ID of student to delete: 103
-Student deleted successfully!
+**🧾 Sample Output**
+<img width="482" height="670" alt="image" src="https://github.com/user-attachments/assets/ce1e8eeb-6a73-4efc-89c1-aab24034f837" />
+<img width="515" height="782" alt="image" src="https://github.com/user-attachments/assets/fd340302-078c-4140-bc3d-d965c037419d" />
 
 👨‍💻 Author
 Rami Adarsh
 Java Developer Intern
-
