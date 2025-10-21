@@ -1,5 +1,3 @@
-package com.task2;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -144,4 +142,3 @@ class StudentManagementSystem {
         } while (choice != 5);
     }
 }
-
